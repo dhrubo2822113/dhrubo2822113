@@ -1,4 +1,4 @@
-👋 Hi, I’m @dhrubo2822113  
+👋 Hi, I’m @dhrubo 
 👀 I’m interested in Robotics, Artificial Intelligence, and Software Development.  
 🌱 I’m currently learning advanced machine learning techniques and exploring the integration of AI with robotics for real-world applications.  
 💞️ I’m looking to collaborate on projects focused on AI-driven robotics solutions, particularly those that aim to enhance human-robot interaction.  
